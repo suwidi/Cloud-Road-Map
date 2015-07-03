@@ -1,0 +1,15 @@
+R.1506 (2015-June
+- Initial Release
+-
+
+
+
+
+R.1600 (2016-January)
+- Payslip on Android
+- Self employee on mobile Apps
+
+
+R.1606 (2016-June)
+- Full Mobile compatible
+- 

@@ -1,0 +1,15 @@
+R.1506 (2015-June
+- Initial Release
+-
+
+
+
+
+R.1600 (2016-January)
+- Apk on Android
+- Executive Mobile Dashboard
+- Moving Average calculation on Inventory
+
+R.1606 (2016-June)
+- Full Mobile compatible
+- Mutli language
